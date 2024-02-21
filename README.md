@@ -1,4 +1,4 @@
-# Repositorio del Programa de Ingeniería Mecatrónica ![Logo](url-del-logo-aquí)
+# Repositorio del Programa de Ingeniería Mecatrónica ![Logo](./path/Logos/logo.jpg)
 
 Este repositorio **almacena los formatos de trabajo de grado** para el programa de Ingeniería Mecatrónica, abarcando las categorías de *Idea*, *Anteproyecto*, y *Proyecto Final*.
 
