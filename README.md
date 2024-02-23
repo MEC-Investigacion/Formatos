@@ -23,7 +23,7 @@ En esta sección se almacenan los formatos requeridos para la **elaboración y p
 
 
 
-## 🏆 Final
+## 🏆 Proyecto Final
 
 Esta parte del repositorio contiene los formatos finales para la **presentación de proyectos de grado completados**.
 ## Linea de investigación y áreas temáticas del programa: 
