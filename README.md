@@ -10,7 +10,8 @@ Este repositorio **almacena los formatos de trabajo de grado** para el programa 
 ## 📢 Solicitudes a CIPRO
 
 
-Para cualquier solicitud relacionada con los procesos de trabajo de grado, por favor dirigirse a [**CIPRO - Haga clic aquí para más información**](https://forms.gle/gT6W2tXAkv47Y1SP6).
+Para cualquier solicitud relacionada con los procesos de trabajo de grado, por favor dirigirse a <a href="https://forms.gle/gT6W2tXAkv47Y1SP6" target="_blank">**CIPRO - Haga clic aquí para más información**</a>.
+
 
 ## 📝 Idea
 
