@@ -21,7 +21,7 @@ En esta sección se almacenan los formatos requeridos para la **elaboración y p
 Esta parte del repositorio contiene los formatos finales para la **presentación de proyectos de grado completados**.
 ## Linea de investigación y áreas temáticas del programa: 
 <p align="center">
-<img src="./Logos/Linea.png" height="500">
+<img src="./Logos/Linea.png" height="300">
 </p>
 
 
