@@ -1,4 +1,4 @@
-# Repositorio del Programa de Ingeniería Mecatrónica <img src="./Logos/logo.jpg" height="50">
+# Repositorio del Programa de Ingeniería Mecatrónica <img src="./Logos/logo.jpg" height="100">
 
 
 
