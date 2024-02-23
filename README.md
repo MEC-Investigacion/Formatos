@@ -7,6 +7,9 @@
 
 
 Este repositorio **almacena los formatos de trabajo de grado** para el programa de Ingeniería Mecatrónica, abarcando las categorías de *Idea*, *Anteproyecto*, y *Proyecto Final*.
+## 📢 Solicitudes a CIPRO
+
+Para cualquier solicitud relacionada con los procesos de trabajo de grado, por favor dirigirse a [**CIPRO - Haga clic aquí para más información**](https://forms.gle/gT6W2tXAkv47Y1SP6).
 
 ## 📝 Idea
 
@@ -24,8 +27,4 @@ Esta parte del repositorio contiene los formatos finales para la **presentación
 <img src="./Logos/Linea.png" height="300">
 </p>
 
-
-## 📢 Solicitudes a CIPRO
-
-Para cualquier solicitud relacionada con los procesos de trabajo de grado, por favor dirigirse a [**CIPRO - Haga clic aquí para más información**](https://forms.gle/gT6W2tXAkv47Y1SP6).
 
