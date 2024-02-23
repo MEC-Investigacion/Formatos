@@ -17,9 +17,9 @@ Para cualquier solicitud relacionada con los procesos de trabajo de grado, por f
 
 Aquí se encuentran los formatos y guías para la **presentación de ideas** de proyectos de grado.
 
-## 📄 [📂](./Formato%20Propuesta/) Anteproyecto
+## 📄 [📂](./Formato%20Propuesta/) Propuesta
 
-[En esta sección se almacenan los formatos requeridos para la **elaboración y presentación de anteproyectos**.](./Formato%20Propuesta/)
+En esta sección se almacenan los formatos requeridos para la **elaboración y presentación de porpuesta**
 
 
 
