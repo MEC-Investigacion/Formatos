@@ -13,7 +13,7 @@ En esta sección se almacenan los formatos requeridos para la **elaboración y p
 ## 🏆 Final
 
 Esta parte del repositorio contiene los formatos finales para la **presentación de proyectos de grado completados**.
-## Linea de investigación del programa: ![Logo](./Logos/Linea.png)
+## Linea y áreas de investigación del programa: ![Logo](./Logos/Linea.png)
 
 ## 📢 Solicitudes a CIPRO
 
