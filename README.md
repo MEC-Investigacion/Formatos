@@ -34,7 +34,7 @@ Esta parte del repositorio contiene los formatos finales para la **presentación
 
 ## Calendario proceso de investigación:
 <p align="center">
-<img src="./Calendario/PI-2024-1" height="300">
+<img src="./Calendario/PI-2024-1.png" height="300">
 </p>
 
 ## Calendario Socialización de trabajo de grado:
