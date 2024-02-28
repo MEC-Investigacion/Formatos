@@ -32,3 +32,12 @@ Esta parte del repositorio contiene los formatos finales para la **presentación
 </p>
 
 
+## Calendario proceso de investigación:
+<p align="center">
+<img src="./Calendario/PI.png" height="300">
+</p>
+
+## Calendario Socialización de trabajo de grado:
+<p align="center">
+<img src="./Calendario/STG.png" height="300">
+</p>
